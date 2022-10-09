@@ -118,6 +118,9 @@ button.btn.btn-outline-light {
     font-weight: 600;
     padding: 7px 25px;
 }
+.header-btn{
+    border: 1px solid #fff !important;
+}
 /* ############################# Banner Section ################################ */
 .banner-section{
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 82% 98%, 65% 100%, 46% 98%, 29% 100%, 13% 98%, 0 100%);
